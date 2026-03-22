@@ -2,4 +2,4 @@
 title = "Matt Corritore"
 +++
 
-Software engineer. Writing about things I find interesting.
+People analytics and data science. Writing about things I find interesting.

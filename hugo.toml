@@ -4,7 +4,7 @@ title = "Matt Corritore"
 theme = "hugo-bearblog"
 
 [params]
-  description = "Software engineer. Writing about things I find interesting."
+  description = "People analytics and data science. Writing about things I find interesting."
   author = "Matt Corritore"
   footer = "Matt Corritore · [RSS](/index.xml)"
   dateformat = "2006-01-02"
