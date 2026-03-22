@@ -9,3 +9,13 @@ theme = "hugo-bearblog"
   footer = "Matt Corritore · [RSS](/index.xml)"
   dateformat = "2006-01-02"
   favicon = "favicon.ico"
+
+[[menu.main]]
+  url = "/blog/"
+  name = "Blog"
+  weight = 1
+
+[[menu.main]]
+  url = "/about/"
+  name = "About"
+  weight = 2
