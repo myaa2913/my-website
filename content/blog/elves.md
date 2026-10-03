@@ -7,17 +7,19 @@ images = ["/elves/poster.png"]
 draft = false
 +++
 
+Most of us still use AI the old way. Something comes up, you kick off an agent, and then you babysit it. Every task starts with you.
+
+There is a new way: a harness that runs on its own, watches for what is being asked of you, and drafts the work before you ever ask. That is the loop Muse, Grok Bot, and dots all launched around last month, each on someone else's computer and on a paid plan.
+
+I have been running a small, free, local version of that loop on my laptop. It is not a competitor to any of them. It is the same loop at a size one person can run, read, and change. I call it elves.
+
 You know the story. The shoemaker goes to bed. In the morning the shoes are finished, and all he does is look them over.
 
-Until recently I used coding agents the opposite way. A request came in, I read it, I decided it deserved real work, I opened a session, I explained the context, and then I watched. Every task started with me, and most of them kept me there until they finished. The agent was fast. I was the scheduler, and I was slow.
-
-So I wrote a small harness that does the starting for me. It runs on my laptop, checks the places requests reach me, drafts anything that needs real work, and sends nothing. When I come back from lunch or a meeting, the drafts are waiting. I call it elves.
+Imagine coming back from lunch, a meeting, or a couple of hours of deep work, and every important ask that came in while you were away has already been drafted and is waiting for your review. No triaging messages. No kicking off agents and babysitting them.
 
 {{< video src="/elves/elves-explainer.mp4" poster="/elves/poster.png" captions="/elves/elves-explainer.vtt" >}}
 
 *Two-minute explainer. The repo is [github.com/myaa2913/elves](https://github.com/myaa2913/elves).*
-
-Muse, Grok Bot, and dots all shipped last month selling this same loop, hosted on their computers and on a paid plan. Elves is not a competitor to any of them. It is the same loop at a size one person can run, read, and change.
 
 ## The loop
 
