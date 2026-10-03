@@ -13,12 +13,12 @@ theme = "hugo-bearblog"
 [[menu.main]]
   url = "/blog/"
   name = "Blog"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   url = "/about/"
   name = "About"
-  weight = 2
+  weight = 1
 
 [[menu.main]]
   url = "https://www.linkedin.com/in/matthewcorritore/"
