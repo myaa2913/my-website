@@ -6,7 +6,7 @@ theme = "hugo-bearblog"
 [params]
   description = "People analytics and data science. Writing about things I find interesting."
   author = "Matt Corritore"
-  footer = "Matt Corritore · [RSS](/index.xml)"
+  footer = "Matt Corritore · [LinkedIn](https://www.linkedin.com/in/matthewcorritore/) · [RSS](/index.xml)"
   dateformat = "2006-01-02"
   favicon = "favicon.ico"
 
@@ -19,3 +19,8 @@ theme = "hugo-bearblog"
   url = "/about/"
   name = "About"
   weight = 2
+
+[[menu.main]]
+  url = "https://www.linkedin.com/in/matthewcorritore/"
+  name = "LinkedIn"
+  weight = 3

@@ -1,0 +1,8 @@
+<video controls playsinline preload="none" style="width:100%;height:auto;aspect-ratio:16/9;border-radius:3px"
+  {{- with .Get "poster" }} poster="{{ . | relURL }}"{{ end }}>
+  <source src="{{ .Get "src" | relURL }}" type="video/mp4">
+  {{- with .Get "captions" }}
+  <track kind="captions" src="{{ . | relURL }}" srclang="en" label="English">
+  {{- end }}
+  <a href="{{ .Get "src" | relURL }}">Download the video</a>
+</video>
