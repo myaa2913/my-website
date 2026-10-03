@@ -1,5 +1,5 @@
 +++
-title = "The Shoemaker's Elves: I stopped starting my agents"
+title = "The Shoemaker's Elves: my agents draft the work before I ask"
 date = "2026-10-03"
 description = "A small local harness that drafts my work before I ask. My only job is review. How the loop works and how its feedback becomes rules I can read."
 tags = ["agents", "tools"]
